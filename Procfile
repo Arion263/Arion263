@@ -1,0 +1,1 @@
+web: waitress-serve 'blog.wsgi:application'

@@ -13,10 +13,11 @@ services:
       - db  
 
   db:
-    image: postgres
-    ports:
-      - "5432:5432"
+    image: mysql:5.7
     environment:
-      - POSTGRES_DB=blog_database
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
+      MYSQL_DATABASE: blog_database
+      MYSQL_USER: mysql_user
+      MYSQL_PASSWORD: mysql_password
+      MYSQL_ROOT_PASSWORD: root_password
+    ports:
+      - "3306:3306"

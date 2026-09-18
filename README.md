@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=arion263&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99767181%3Fu%3D1c9d96038fa276d22f508c39cf5f0330990bfc2b%26v%3D4" alt="arion263 hero visual" />
-</p>
-
 <h1>arion263</h1>
 <p><b>Freelance developer or consultant</b></p>
 
@@ -41,10 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) `PowerShell`
 
 ## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=arion263&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99767181%3Fu%3D1c9d96038fa276d22f508c39cf5f0330990bfc2b%26v%3D4" alt="arion263 social visual" />
-</p>
 
 <a href="https://github.com/arion263">GitHub</a>
 

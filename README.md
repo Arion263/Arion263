@@ -92,7 +92,6 @@
 ## 📊 Telemetry & Highlights
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=arion263&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99767181%3Fu%3D1c9d96038fa276d22f508c39cf5f0330990bfc2b%26v%3D4" alt="arion263 highlights visual" />
 </p>
 
 ---

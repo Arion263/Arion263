@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/cyber-cat.jpg" alt="Cyberpunk Cat Banner" width="100%" />
-
 <br/>
 
 <a href="https://git.io/typing-svg">
